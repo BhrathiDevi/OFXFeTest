@@ -1,0 +1,7 @@
+{
+  "extends": ["plugin:testing-library/react", "eslint:recommended"],
+  "rules": {
+    "testing-library/no-container": "off",
+    "testing-library/no-node-access": "off"
+  }
+}
