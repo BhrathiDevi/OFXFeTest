@@ -4,7 +4,7 @@ git clone https://github.com/BhrathiDevi/OFXFeTest.git (this command will help y
 
 # Add the node modules after downloading the project how to do that below command will help you:
 
-npm install (this one helps you to install all dependencies from package.json)
+npm install or npm install --force (this one helps you to install all dependencies from package.json)
 
 # Use the below command to run your project to test:
 
